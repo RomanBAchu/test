@@ -1,6 +1,6 @@
 @font-face {
 	font-family: Resize;
-	src: url("..test/Resizeregular.woff");
+	src: url("..test/Resizeregular.woff") format("woff")
 }
 
 @font-face {
