@@ -1,0 +1,38 @@
+@font-face {
+	font-family: Resize;
+	src: url(/home/bachu/Resizeregular.otf);
+}
+
+@font-face {
+	font-family: Zakoruchka2k;
+	src: url(/home/bachu/Zakoruchka2k.ttf);
+}
+
+body {
+  background: linear-gradient(to bottom, white, blue 31%, #b53001 81%);
+  font-size: 36px;
+  color: white;
+  text-shadow: #86827c 6px 2px 2px;
+  font-family: Resize;
+
+
+}
+
+
+
+
+.services {
+  width: 1260px;
+  margin-left: 14%;
+  margin-right: auto;
+
+
+}
+
+.card {
+  box-sizing: border-box;
+box-shadow: 0 0 31px rgb(255 255 255);
+  padding: 160px 30px 30px 30px;
+  width: 320px;
+  margin 0 auto;
+}
